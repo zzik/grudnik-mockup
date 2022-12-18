@@ -1,0 +1,14 @@
+@media (min-width:0px) {
+    footer {
+        padding: 32px;
+        width: 100%;
+        color: rgba(153, 153, 153, 0.753);
+    }
+}
+@media (min-width: 760px) {
+    footer {
+        position: relative;
+        bottom: 0;
+        right: 0;
+    }
+}

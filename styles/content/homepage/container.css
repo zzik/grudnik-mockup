@@ -1,0 +1,24 @@
+@media (min-width:0px) {
+    .homepage-item-container {
+        flex: 1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .homepage-item-container img {
+        width: 100%;
+        object-fit: contain;
+        flex: 1;
+    }
+}
+@media (min-width: 540px) {
+    .homepage-item-container {
+        flex: 40%;
+    }
+}
+@media (min-width: 760px) {
+    .homepage-item-container {
+        flex: 30%;
+        flex-grow: 0;
+    }
+}

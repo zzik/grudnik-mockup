@@ -1,4 +1,8 @@
 @import './homepage/container.css';
+@import './about/container.css';
+@import './contact/container.css';
+@import './post/container.css';
+@import './category/container.css';
 
 @media (min-width:0px) {
     .content {
@@ -7,7 +11,7 @@
         flex-direction: column;
         justify-content: center;
         height: auto;
-        row-gap: 24px;
+        /* row-gap: 24px; */
     }
 }
 

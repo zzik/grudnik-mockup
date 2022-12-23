@@ -70,6 +70,7 @@
     width: 20%;
     flex-direction: column;
     position: relative;
+    margin-right: 1rem;
   }
   .social {
     position: relative;

@@ -1,0 +1,22 @@
+@media (min-width: 0px) {
+
+    .category-item-container {
+        flex: 1;
+        min-width: 220px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 24px;
+    }
+  }
+  @media (min-width: 540px) {
+    .category-item-container {
+        max-width: 50%;
+    }
+  }
+  @media (min-width: 760px) {
+    .category-item-container {
+
+        max-width: 50%;
+    }
+  }

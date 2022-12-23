@@ -1,0 +1,30 @@
+@media (min-width:0px) {
+
+    .section-page {
+        width: 80%;
+    }
+    .section-page h1 {
+        font-size: 24px;
+        padding: 24px;
+        font-weight: 400;
+    }
+    .section-page img {
+        width: 100%;
+    }
+    .section-page p, .section-page h3 {
+        text-align: left;
+        margin-bottom: 2rem;
+    }
+    .section-page-exhibitions-date {
+        color: red;
+    }
+    .section-page-exhibitions-description p {
+        margin-bottom: 1rem;
+    }
+}
+@media (min-width: 540px) {
+
+}
+@media (min-width: 760px) {
+
+}
